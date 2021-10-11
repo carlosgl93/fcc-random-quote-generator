@@ -7,6 +7,10 @@
     padding: 25vh 10vw;
 }
 
+.btn {
+    margin: 1vw;
+}
+
 #tweet-quote {
     text-decoration: none;
     color: white

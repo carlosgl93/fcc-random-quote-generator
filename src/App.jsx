@@ -57,7 +57,7 @@ function App() {
 
     <div id="actions container-fluid">
       <button id="new-quote" className='btn btn-primary btn-sm' onClick={getQuotesFromAPI}>New quote please!</button>
-
+        
       <button className='btn btn-secondary btn-sm'><a href="twitter.com/intent/tweet" target='_blank' id="tweet-quote">Tweet this quote</a></button>
     </div>
     </>
