@@ -1,0 +1,13 @@
+#quote-box {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 25vh 10vw;
+}
+
+#tweet-quote {
+    text-decoration: none;
+    color: white
+}
